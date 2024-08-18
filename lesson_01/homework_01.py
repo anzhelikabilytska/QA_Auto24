@@ -15,7 +15,7 @@ print("world!")
 hello = "Hello"
 world = "world"
 
-if true:
+if True:
     print(f"{hello} {world}!")
 
 
@@ -68,7 +68,7 @@ apple_trees = 4
 pear_trees = apple_trees + 5
 plum_trees = pear_trees - 2
 total_trees = apple_trees + pear_trees + plum_trees
-print(f"{total_trees} were planned in the garden")
+print(f"Number of children in group is {total_group}")
 
 
 # task 08
